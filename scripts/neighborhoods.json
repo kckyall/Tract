@@ -1,0 +1,2068 @@
+{
+  "_meta": {
+    "description": "St. Petersburg FL neighborhood definitions from City of St. Pete GIS (Layer 22)",
+    "version": "2.0",
+    "last_updated": "2026-03-26",
+    "source": "https://egis.stpete.org/arcgis/rest/services/ServicesDOTS/NeighborhoodRelations/MapServer/22",
+    "notes": "Route IDs matched by point-in-polygon against official city boundary polygons. 129 neighborhoods."
+  },
+  "greater_woodlawn_nbrhd_assn": {
+    "display_name": "Greater Woodlawn Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7952,
+      "lon": -82.651
+    },
+    "route_ids": [
+      "33704C007",
+      "33704C014"
+    ],
+    "zip_codes": [
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "driftwood_property_owners_assn": {
+    "display_name": "Driftwood Property Owners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7454,
+      "lon": -82.6322
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "mystic_lake_nbrhd_assn": {
+    "display_name": "Mystic Lake Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8327,
+      "lon": -82.6364
+    },
+    "route_ids": [
+      "33702C006"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "pasadena_bear_creek_estates_nbrhd_assn": {
+    "display_name": "Pasadena Bear Creek Estates Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7685,
+      "lon": -82.7253
+    },
+    "route_ids": [
+      "33707C003",
+      "33707C021"
+    ],
+    "zip_codes": [
+      "33707"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "downtown_nbrhd_assn": {
+    "display_name": "Downtown Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7717,
+      "lon": -82.6326
+    },
+    "route_ids": [
+      "33701C002",
+      "33701C006",
+      "33701C008",
+      "33701C009",
+      "33701C011",
+      "33701C013",
+      "33701C014",
+      "33701C044"
+    ],
+    "zip_codes": [
+      "33701"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "patrician_point_nbrhd_assn": {
+    "display_name": "Patrician Point Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8104,
+      "lon": -82.6112
+    },
+    "route_ids": [
+      "33703C075"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "americana_cove_residents_assn": {
+    "display_name": "Americana Cove Residents Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8366,
+      "lon": -82.6317
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "historic_uptown_nbrhd": {
+    "display_name": "Historic Uptown Nbrhd",
+    "aliases": [],
+    "center": {
+      "lat": 27.7809,
+      "lon": -82.646
+    },
+    "route_ids": [
+      "33701C005",
+      "33701C027",
+      "33705C002"
+    ],
+    "zip_codes": [
+      "33701",
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "bayway_isles_homeowners_club_inc": {
+    "display_name": "Bayway Isles Homeowners Club Inc",
+    "aliases": [],
+    "center": {
+      "lat": 27.711,
+      "lon": -82.6989
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "ling_a_mor_estate_nbrhd_assn": {
+    "display_name": "Ling-A-Mor Estate Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7425,
+      "lon": -82.6375
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "big_bayou_nbrhd_assn": {
+    "display_name": "Big Bayou Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7431,
+      "lon": -82.6368
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "euclid_st_paul_nbrhd_assn": {
+    "display_name": "Euclid-St Paul Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7865,
+      "lon": -82.6494
+    },
+    "route_ids": [
+      "33704C003",
+      "33705C001"
+    ],
+    "zip_codes": [
+      "33704",
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "eden_isles_civic_assn": {
+    "display_name": "Eden Isles Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8038,
+      "lon": -82.6154
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "marina_bay_nbrhd_assn": {
+    "display_name": "Marina Bay Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.717,
+      "lon": -82.6936
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "causeway_isles_nbrhd_assn": {
+    "display_name": "Causeway Isles Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7669,
+      "lon": -82.7466
+    },
+    "route_ids": [
+      "33707C027"
+    ],
+    "zip_codes": [
+      "33707"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "jungle_terrace_civic_assn": {
+    "display_name": "Jungle Terrace Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8034,
+      "lon": -82.7484
+    },
+    "route_ids": [
+      "33709C061",
+      "33710C011",
+      "33710C024",
+      "33710C032",
+      "33710C038",
+      "33710C042",
+      "33710C049"
+    ],
+    "zip_codes": [
+      "33709",
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "highland_oaks_nbrhd_assn": {
+    "display_name": "Highland Oaks Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7444,
+      "lon": -82.6661
+    },
+    "route_ids": [
+      "33712C008",
+      "33712C027"
+    ],
+    "zip_codes": [
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "northeast_terraces_nbrhd_assn": {
+    "display_name": "Northeast Terraces Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.84,
+      "lon": -82.6323
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "mel_tan_heights_nbrhd_assn": {
+    "display_name": "Mel-Tan Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7536,
+      "lon": -82.674
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "cromwell_heights_nbrhd_assn": {
+    "display_name": "Cromwell Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7501,
+      "lon": -82.6505
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "snell_isle_property_owners_assn": {
+    "display_name": "Snell Isle Property Owners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7968,
+      "lon": -82.6174
+    },
+    "route_ids": [
+      "33704C009",
+      "33704C011",
+      "33704C012",
+      "33704C021"
+    ],
+    "zip_codes": [
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "the_ahali_place_homeowners_assn": {
+    "display_name": "The Ahali Place Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7139,
+      "lon": -82.674
+    },
+    "route_ids": [
+      "33712C018"
+    ],
+    "zip_codes": [
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "harbordale_nbrhd_assn": {
+    "display_name": "Harbordale Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.744,
+      "lon": -82.6434
+    },
+    "route_ids": [
+      "33705C041"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "greater_pinellas_point_civic_assn": {
+    "display_name": "Greater Pinellas Point Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.711,
+      "lon": -82.6688
+    },
+    "route_ids": [
+      "33705C020",
+      "33705C021",
+      "33705C022",
+      "33705C027",
+      "33705C029",
+      "33705C031",
+      "33712C009",
+      "33712C013",
+      "33712C014",
+      "33712C016",
+      "33712C017",
+      "33712C018",
+      "33712C021",
+      "33712C025"
+    ],
+    "zip_codes": [
+      "33705",
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "northeast_park_nbrhd_assn": {
+    "display_name": "Northeast Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8048,
+      "lon": -82.6213
+    },
+    "route_ids": [
+      "33703C052",
+      "33703C069",
+      "33703C076",
+      "33704C017"
+    ],
+    "zip_codes": [
+      "33703",
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "st_pete_heights_nbrhd_assn": {
+    "display_name": "St. Pete Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8028,
+      "lon": -82.6684
+    },
+    "route_ids": [
+      "33713C022"
+    ],
+    "zip_codes": [
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "crossroads_area_homeowners_assn": {
+    "display_name": "Crossroads Area Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7867,
+      "lon": -82.7315
+    },
+    "route_ids": [
+      "33710C028"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "arlington_park_homeowners_assn": {
+    "display_name": "Arlington Park Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7145,
+      "lon": -82.6583
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "bridgeton_north_inc_homeowners_assn": {
+    "display_name": "Bridgeton North Inc Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7036,
+      "lon": -82.6781
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "riviera_bay_civic_assn": {
+    "display_name": "Riviera Bay Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8525,
+      "lon": -82.6328
+    },
+    "route_ids": [
+      "33702C018"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "arcadia_gardens_nbrhd_assn": {
+    "display_name": "Arcadia Gardens Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8161,
+      "lon": -82.6428
+    },
+    "route_ids": [
+      "33703C068"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "sterling_manor_homeowners_assn": {
+    "display_name": "Sterling Manor Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8754,
+      "lon": -82.6261
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "wyngate_homes_homeowners_assn": {
+    "display_name": "Wyngate Homes Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8735,
+      "lon": -82.6266
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "old_pasadena_nbrhd_assn": {
+    "display_name": "Old Pasadena Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7651,
+      "lon": -82.738
+    },
+    "route_ids": [
+      "33707C045"
+    ],
+    "zip_codes": [
+      "33707"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "shore_acres_civic_assn": {
+    "display_name": "Shore Acres Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8225,
+      "lon": -82.6047
+    },
+    "route_ids": [
+      "33703C051",
+      "33703C054",
+      "33703C058",
+      "33703C062",
+      "33703C071",
+      "33703C082"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "bartlett_park_nbrhd_assn": {
+    "display_name": "Bartlett Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7537,
+      "lon": -82.6429
+    },
+    "route_ids": [
+      "33701C017",
+      "33705C012"
+    ],
+    "zip_codes": [
+      "33701",
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "perry_bayview_nbrhd_assn": {
+    "display_name": "Perry Bayview Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7436,
+      "lon": -82.6836
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "clam_bayou_nbrhd_assn": {
+    "display_name": "Clam Bayou Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7371,
+      "lon": -82.6906
+    },
+    "route_ids": [
+      "33711C064"
+    ],
+    "zip_codes": [
+      "33711"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "point_brittany_community_assn": {
+    "display_name": "Point Brittany Community Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.716,
+      "lon": -82.7008
+    },
+    "route_ids": [
+      "33715C051"
+    ],
+    "zip_codes": [
+      "33715"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "station_view_nbrhd_assn": {
+    "display_name": "Station View Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8019,
+      "lon": -82.6759
+    },
+    "route_ids": [
+      "33713C017"
+    ],
+    "zip_codes": [
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "azalea_nbrhd_assn": {
+    "display_name": "Azalea Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7863,
+      "lon": -82.7434
+    },
+    "route_ids": [
+      "33710C007",
+      "33710C029"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "lakewood_estates_civic_assn": {
+    "display_name": "Lakewood Estates Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7305,
+      "lon": -82.664
+    },
+    "route_ids": [
+      "33705C016",
+      "33712C012",
+      "33712C019",
+      "33712C022",
+      "33712C024",
+      "33712C036"
+    ],
+    "zip_codes": [
+      "33705",
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "tyrone_gardens_nbrhd_assn": {
+    "display_name": "Tyrone Gardens Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7839,
+      "lon": -82.7195
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "euclid_heights_nbrhd_assn": {
+    "display_name": "Euclid Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8154,
+      "lon": -82.652
+    },
+    "route_ids": [
+      "33703C057"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "eagle_crest_homeowners_assn": {
+    "display_name": "Eagle Crest Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7793,
+      "lon": -82.7319
+    },
+    "route_ids": [
+      "33710C006"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "westminster_heights_nbrhd_assn": {
+    "display_name": "Westminster Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7645,
+      "lon": -82.7056
+    },
+    "route_ids": [
+      "33707C012"
+    ],
+    "zip_codes": [
+      "33707"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "north_kenwood_nbrhd_assn": {
+    "display_name": "North Kenwood Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7863,
+      "lon": -82.6659
+    },
+    "route_ids": [
+      "33713C008",
+      "33713C013",
+      "33713C036"
+    ],
+    "zip_codes": [
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "renaissance_nbrhd_assn": {
+    "display_name": "Renaissance Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8465,
+      "lon": -82.6266
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "wildwood_heights_nbrhd_assn": {
+    "display_name": "Wildwood Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7579,
+      "lon": -82.6681
+    },
+    "route_ids": [
+      "33712C001",
+      "33712C004"
+    ],
+    "zip_codes": [
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "mariners_pass_homeowners_assn": {
+    "display_name": "Mariners Pass Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8321,
+      "lon": -82.6133
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "meadowlawn_nbrhd_assn": {
+    "display_name": "Meadowlawn Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8361,
+      "lon": -82.6596
+    },
+    "route_ids": [
+      "33702C004",
+      "33702C014",
+      "33702C025",
+      "33702C035",
+      "33702C037"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "crescent_heights_nbrhd_assn": {
+    "display_name": "Crescent Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7959,
+      "lon": -82.6433
+    },
+    "route_ids": [
+      "33704C022",
+      "33704C028"
+    ],
+    "zip_codes": [
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "allendale_oaks_nbrhd_assn": {
+    "display_name": "Allendale Oaks Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8116,
+      "lon": -82.6425
+    },
+    "route_ids": [
+      "33703C064"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "central_oak_park_nbrhd_assn": {
+    "display_name": "Central Oak Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.776,
+      "lon": -82.6897
+    },
+    "route_ids": [
+      "33711C052",
+      "33711C053",
+      "33713C006",
+      "33713C007",
+      "33713C010",
+      "33713C011",
+      "33713C025",
+      "33713C035",
+      "33713C041"
+    ],
+    "zip_codes": [
+      "33711",
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "ponce_de_leon_nbrhd_assn": {
+    "display_name": "Ponce De Leon Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7971,
+      "lon": -82.6708
+    },
+    "route_ids": [
+      "33713C018",
+      "33713C026"
+    ],
+    "zip_codes": [
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "crescent_lake_nbrhd_assn": {
+    "display_name": "Crescent Lake Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7865,
+      "lon": -82.6435
+    },
+    "route_ids": [
+      "33704C020"
+    ],
+    "zip_codes": [
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "methodist_town_nbrhd_assn": {
+    "display_name": "Methodist Town Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7747,
+      "lon": -82.6489
+    },
+    "route_ids": [
+      "33705C003"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "thirteenth_st_heights_nbrhd_assn": {
+    "display_name": "Thirteenth St Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7555,
+      "lon": -82.6513
+    },
+    "route_ids": [
+      "33705C006",
+      "33705C035"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "edgemoor_nbrhd_assn": {
+    "display_name": "Edgemoor Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8237,
+      "lon": -82.6355
+    },
+    "route_ids": [
+      "33703C060",
+      "33703C067",
+      "33703C078"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "stonesthrow_condo": {
+    "display_name": "Stonesthrow Condo",
+    "aliases": [],
+    "center": {
+      "lat": 27.7892,
+      "lon": -82.7355
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "brighton_bay_nbrhd_assn": {
+    "display_name": "Brighton Bay Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8746,
+      "lon": -82.6266
+    },
+    "route_ids": [
+      "33716C060"
+    ],
+    "zip_codes": [
+      "33716"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "bayou_bonita_nbrhd_assn": {
+    "display_name": "Bayou Bonita Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7285,
+      "lon": -82.6367
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "mangrove_bay_nbrhd_assn": {
+    "display_name": "Mangrove Bay Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8309,
+      "lon": -82.6294
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "five_points_nbrhd_assn": {
+    "display_name": "Five Points Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8032,
+      "lon": -82.6424
+    },
+    "route_ids": [
+      "33704C030"
+    ],
+    "zip_codes": [
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "historic_old_northeast_nbrhd_assn": {
+    "display_name": "Historic Old Northeast Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7884,
+      "lon": -82.6269
+    },
+    "route_ids": [
+      "33701C001",
+      "33701C003",
+      "33701C004",
+      "33701C012",
+      "33701C041",
+      "33704C001",
+      "33704C004",
+      "33704C006",
+      "33704C019"
+    ],
+    "zip_codes": [
+      "33701",
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "oakwood_gardens_nbrhd_assn": {
+    "display_name": "Oakwood Gardens Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8022,
+      "lon": -82.6583
+    },
+    "route_ids": [
+      "33713C016",
+      "33713C021"
+    ],
+    "zip_codes": [
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "glen_lakes_estates_homeowners_assn": {
+    "display_name": "Glen Lakes Estates Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8518,
+      "lon": -82.6566
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "historic_kenwood_nbrhd_assn": {
+    "display_name": "Historic Kenwood Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7761,
+      "lon": -82.6638
+    },
+    "route_ids": [
+      "33713C001",
+      "33713C002",
+      "33713C004",
+      "33713C009",
+      "33713C024"
+    ],
+    "zip_codes": [
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "casa_del_mar_owners_assn": {
+    "display_name": "Casa Del Mar Owners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7125,
+      "lon": -82.7199
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "broadwater_civic_assn": {
+    "display_name": "Broadwater Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7271,
+      "lon": -82.6881
+    },
+    "route_ids": [
+      "33711C057",
+      "33711C068"
+    ],
+    "zip_codes": [
+      "33711"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "disston_heights_civic_assn": {
+    "display_name": "Disston Heights Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8025,
+      "lon": -82.7104
+    },
+    "route_ids": [
+      "33710C003",
+      "33710C008",
+      "33710C012",
+      "33710C014",
+      "33710C015",
+      "33710C016",
+      "33710C018",
+      "33710C021",
+      "33710C027",
+      "33710C036",
+      "33713C005",
+      "33713C014",
+      "33713C015",
+      "33713C023",
+      "33713C028",
+      "33713C029",
+      "33713C030",
+      "33713C033",
+      "33713C037"
+    ],
+    "zip_codes": [
+      "33710",
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "lake_maggiore_shores_nbrhd_assn": {
+    "display_name": "Lake Maggiore Shores Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7434,
+      "lon": -82.6515
+    },
+    "route_ids": [
+      "33705C010",
+      "33712C010"
+    ],
+    "zip_codes": [
+      "33705",
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "isla_del_sol_owners_assn": {
+    "display_name": "Isla Del Sol Owners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7066,
+      "lon": -82.7146
+    },
+    "route_ids": [
+      "33715C054",
+      "33715C056"
+    ],
+    "zip_codes": [
+      "33715"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "village_green_homeowners_assn": {
+    "display_name": "Village Green Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8475,
+      "lon": -82.6589
+    },
+    "route_ids": [
+      "33702C020"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "jungle_prada_nbrhd_assn": {
+    "display_name": "Jungle Prada Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7863,
+      "lon": -82.7478
+    },
+    "route_ids": [
+      "33710C043"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "caya_costa_community_assn": {
+    "display_name": "Caya Costa Community Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8448,
+      "lon": -82.62
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "tanglewood_nbrhd_assn": {
+    "display_name": "Tanglewood Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8325,
+      "lon": -82.6098
+    },
+    "route_ids": [
+      "33702C017"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "downtown_residents_civic_assn": {
+    "display_name": "Downtown Residents Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7705,
+      "lon": -82.6317
+    },
+    "route_ids": [
+      "33701C001",
+      "33701C002",
+      "33701C003",
+      "33701C004",
+      "33701C005",
+      "33701C006",
+      "33701C008",
+      "33701C009",
+      "33701C011",
+      "33701C012",
+      "33701C013",
+      "33701C014",
+      "33701C016",
+      "33701C019",
+      "33701C027",
+      "33701C041",
+      "33701C044"
+    ],
+    "zip_codes": [
+      "33701"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "lakewood_terrace_nbrhd_assn": {
+    "display_name": "Lakewood Terrace Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7344,
+      "lon": -82.641
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "norwood_heights_nbrhd_assn": {
+    "display_name": "Norwood Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7959,
+      "lon": -82.6648
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "bayou_highlands_nbrhd_assn": {
+    "display_name": "Bayou Highlands Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7245,
+      "lon": -82.6412
+    },
+    "route_ids": [
+      "33705C040"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "allendale_terrace_neighbors_united_nbrhd_assn": {
+    "display_name": "Allendale Terrace Neighbors United Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8051,
+      "lon": -82.6468
+    },
+    "route_ids": [
+      "33704C016"
+    ],
+    "zip_codes": [
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "allendale_neighborhood_assn": {
+    "display_name": "Allendale Neighborhood Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8104,
+      "lon": -82.65
+    },
+    "route_ids": [
+      "33703C053"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "coquina_key_property_owners_assn": {
+    "display_name": "Coquina Key Property Owners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7306,
+      "lon": -82.6322
+    },
+    "route_ids": [
+      "33705C017",
+      "33705C028",
+      "33705C032",
+      "33705C034"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "thirty_first_st_nbrhd_assn": {
+    "display_name": "Thirty-First St Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7547,
+      "lon": -82.6774
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "old_southeast_nbrhd_assn": {
+    "display_name": "Old Southeast Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7519,
+      "lon": -82.6331
+    },
+    "route_ids": [
+      "33705C026"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "childs_park_nbrhd_assn": {
+    "display_name": "Childs Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7535,
+      "lon": -82.6911
+    },
+    "route_ids": [
+      "33711C051",
+      "33711C054",
+      "33711C056",
+      "33711C062",
+      "33711C063"
+    ],
+    "zip_codes": [
+      "33711"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "campbell_park_nbrhd_assn": {
+    "display_name": "Campbell Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7629,
+      "lon": -82.6503
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "greater_grovemont_nbrhd_assn": {
+    "display_name": "Greater Grovemont Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8167,
+      "lon": -82.6597
+    },
+    "route_ids": [
+      "33714C061"
+    ],
+    "zip_codes": [
+      "33714"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "historic_roser_park_nbrhd_assn": {
+    "display_name": "Historic Roser Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.761,
+      "lon": -82.6434
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "riviera_bay_home_owners_assn": {
+    "display_name": "Riviera Bay Home Owners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8502,
+      "lon": -82.6301
+    },
+    "route_ids": [
+      "33702C010"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "fossil_park_nbrhd_assn": {
+    "display_name": "Fossil Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8358,
+      "lon": -82.6417
+    },
+    "route_ids": [
+      "33702C023",
+      "33702C033"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "lake_euclid_nbrhd_assn": {
+    "display_name": "Lake Euclid Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7953,
+      "lon": -82.659
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "garden_manor_nbrhd_assn": {
+    "display_name": "Garden Manor Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7852,
+      "lon": -82.7225
+    },
+    "route_ids": [
+      "33710C010"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "bahama_shores_homeowners_assn": {
+    "display_name": "Bahama Shores Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7145,
+      "lon": -82.6345
+    },
+    "route_ids": [
+      "33705C030"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "live_oaks_nbrhd_assn": {
+    "display_name": "Live Oaks Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7752,
+      "lon": -82.7081
+    },
+    "route_ids": [
+      "33710C035",
+      "33710C037"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "yacht_club_estates_civic_assn": {
+    "display_name": "Yacht Club Estates Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7608,
+      "lon": -82.7504
+    },
+    "route_ids": [
+      "33707C004"
+    ],
+    "zip_codes": [
+      "33707"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "twin_brooks_nbrhd_assn": {
+    "display_name": "Twin Brooks Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7484,
+      "lon": -82.6901
+    },
+    "route_ids": [
+      "33711C073"
+    ],
+    "zip_codes": [
+      "33711"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "venetian_isles_homeowners_assn": {
+    "display_name": "Venetian Isles Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8187,
+      "lon": -82.5972
+    },
+    "route_ids": [
+      "33703C070"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "magnolia_heights_nbrhd_assn": {
+    "display_name": "Magnolia Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8036,
+      "lon": -82.6496
+    },
+    "route_ids": [
+      "33704C015"
+    ],
+    "zip_codes": [
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "sunset_drive_south_nbrhd_assn": {
+    "display_name": "Sunset Drive South Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7661,
+      "lon": -82.742
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "palmetto_park_nbrhd_assn": {
+    "display_name": "Palmetto Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7656,
+      "lon": -82.669
+    },
+    "route_ids": [
+      "33712C002",
+      "33712C007"
+    ],
+    "zip_codes": [
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "melrose_mercy_nbrhd_assn": {
+    "display_name": "Melrose Mercy Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7609,
+      "lon": -82.6586
+    },
+    "route_ids": [
+      "33712C020"
+    ],
+    "zip_codes": [
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "west_shore_village_nbrhd_assn": {
+    "display_name": "West Shore Village Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7397,
+      "lon": -82.6873
+    },
+    "route_ids": [
+      "33711C064"
+    ],
+    "zip_codes": [
+      "33711"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "tyrone_landing_nbrhd_assn": {
+    "display_name": "Tyrone Landing Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7887,
+      "lon": -82.7208
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "allendale_terrace_nbrhd_assn": {
+    "display_name": "Allendale Terrace Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8054,
+      "lon": -82.6467
+    },
+    "route_ids": [
+      "33703C064",
+      "33704C016"
+    ],
+    "zip_codes": [
+      "33703",
+      "33704"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "carillon_property_owners_assn_2": {
+    "display_name": "Carillon Property Owners Assn 2",
+    "aliases": [],
+    "center": {
+      "lat": 27.8847,
+      "lon": -82.659
+    },
+    "route_ids": [
+      "33716C062"
+    ],
+    "zip_codes": [
+      "33716"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "graham_rogall_resident_mgmt_and_cnl": {
+    "display_name": "Graham-Rogall Resident Mgmt And Cnl",
+    "aliases": [],
+    "center": {
+      "lat": 27.7679,
+      "lon": -82.6473
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "garden_manor_lake_estates_nbrhd_assn": {
+    "display_name": "Garden Manor Lake Estates Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7893,
+      "lon": -82.7158
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "barcley_estates_homeowners_assn": {
+    "display_name": "Barcley Estates Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8519,
+      "lon": -82.6525
+    },
+    "route_ids": [
+      "33702C028"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "woodlawn_oaks_nbrhd_assn": {
+    "display_name": "Woodlawn Oaks Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7842,
+      "lon": -82.6592
+    },
+    "route_ids": [
+      "33713C012"
+    ],
+    "zip_codes": [
+      "33713"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "historic_park_street_nbrhd_assn": {
+    "display_name": "Historic Park Street Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7736,
+      "lon": -82.7395
+    },
+    "route_ids": [
+      "33710C004"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "old_bayside_nbrhd_and_marina": {
+    "display_name": "Old Bayside Nbrhd And Marina",
+    "aliases": [],
+    "center": {
+      "lat": 27.7702,
+      "lon": -82.6274
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "gateway_nbrhd_and_crime_watch_assn": {
+    "display_name": "Gateway Nbrhd & Crime Watch Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8511,
+      "lon": -82.6416
+    },
+    "route_ids": [
+      "33702C013",
+      "33702C024",
+      "33702C030",
+      "33702C042"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "pasadena_vista_nbrhd_assn": {
+    "display_name": "Pasadena Vista Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7741,
+      "lon": -82.7354
+    },
+    "route_ids": [
+      "33710C046"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "james_clearview_resident_assn": {
+    "display_name": "James Clearview Resident Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7754,
+      "lon": -82.6492
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "perkins_nbrhd_assn": {
+    "display_name": "Perkins Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7536,
+      "lon": -82.6667
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "casler_heights_nbrhd_assn": {
+    "display_name": "Casler Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7507,
+      "lon": -82.6623
+    },
+    "route_ids": [
+      "33712C006"
+    ],
+    "zip_codes": [
+      "33712"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "winston_park_nbrhd_assn": {
+    "display_name": "Winston Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.849,
+      "lon": -82.6535
+    },
+    "route_ids": [
+      "33702C007",
+      "33702C008",
+      "33702C020"
+    ],
+    "zip_codes": [
+      "33702"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "lake_pasadena_estates_nbrhd_assn": {
+    "display_name": "Lake Pasadena Estates Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7732,
+      "lon": -82.7194
+    },
+    "route_ids": [
+      "33710C026"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "tropical_shores_nbrhd_assn": {
+    "display_name": "Tropical Shores Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7466,
+      "lon": -82.6277
+    },
+    "route_ids": [
+      "33705C014"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "fruitland_heights_nbrhd_assn": {
+    "display_name": "Fruitland Heights Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7498,
+      "lon": -82.6566
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "lake_maggiore_park_nbrhd_assn": {
+    "display_name": "Lake Maggiore Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7287,
+      "lon": -82.6431
+    },
+    "route_ids": [
+      "33705C015"
+    ],
+    "zip_codes": [
+      "33705"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "carillon_property_owners_assn_1": {
+    "display_name": "Carillon Property Owners Assn 1",
+    "aliases": [],
+    "center": {
+      "lat": 27.8878,
+      "lon": -82.6618
+    },
+    "route_ids": [
+      "33716C059"
+    ],
+    "zip_codes": [
+      "33716"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "harbor_isle_homeowners_assn": {
+    "display_name": "Harbor Isle Homeowners Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8382,
+      "lon": -82.6141
+    },
+    "route_ids": [],
+    "zip_codes": [],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "placido_bayou_community_assn": {
+    "display_name": "Placido Bayou Community Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.816,
+      "lon": -82.6244
+    },
+    "route_ids": [
+      "33703C081"
+    ],
+    "zip_codes": [
+      "33703"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "harris_park_nbrhd_assn": {
+    "display_name": "Harris Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.8119,
+      "lon": -82.6592
+    },
+    "route_ids": [
+      "33714C051",
+      "33714C062"
+    ],
+    "zip_codes": [
+      "33714"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "holiday_park_nbrhd_assn": {
+    "display_name": "Holiday Park Nbrhd Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7993,
+      "lon": -82.7225
+    },
+    "route_ids": [
+      "33710C019",
+      "33710C039"
+    ],
+    "zip_codes": [
+      "33710"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  },
+  "maximo_civic_assn": {
+    "display_name": "Maximo Civic Assn",
+    "aliases": [],
+    "center": {
+      "lat": 27.7224,
+      "lon": -82.6871
+    },
+    "route_ids": [
+      "33711C059",
+      "33711C069"
+    ],
+    "zip_codes": [
+      "33711"
+    ],
+    "tier": "association",
+    "source": "city_gis"
+  }
+}
