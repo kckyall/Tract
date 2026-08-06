@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EDDM Campaign Targeting Criteria",
+  "description": "Structured criteria extracted from a natural-language brief and fed to the deterministic route engine.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["business_type", "target_homes"],
+  "properties": {
+    "business_type": {
+      "type": "string",
+      "enum": [
+        "luxury_retail", "restaurant_casual", "restaurant_upscale", "dental_orthodontics",
+        "home_services", "lawn_pest_pool", "real_estate", "medical_healthcare",
+        "fitness_wellness", "auto_services", "general_retail", "education"
+      ]
+    },
+    "center_lat": {"type": ["number", "null"], "minimum": -90, "maximum": 90},
+    "center_lon": {"type": ["number", "null"], "minimum": -180, "maximum": 180},
+    "max_radius": {"type": ["number", "null"], "exclusiveMinimum": 0, "maximum": 100},
+    "zip_codes": {"type": ["array", "null"], "items": {"type": "string", "pattern": "^\\d{5}$"}},
+    "neighborhoods": {"type": ["array", "null"], "items": {"type": "string"}},
+    "min_income": {"type": ["integer", "null"], "minimum": 0},
+    "max_income": {"type": ["integer", "null"], "minimum": 0},
+    "min_home_value": {"type": ["integer", "null"], "minimum": 0},
+    "max_home_value": {"type": ["integer", "null"], "minimum": 0},
+    "min_own_pct": {"type": ["integer", "null"], "minimum": 0, "maximum": 100},
+    "housing_type": {"type": ["string", "null"], "enum": ["homes", "apartments", "any", null]},
+    "target_age": {"type": ["string", "null"], "enum": ["family", "senior", "young_adult", "any", null]},
+    "target_homes": {"type": "integer", "minimum": 1},
+    "min_score": {"type": ["integer", "null"], "minimum": 0, "maximum": 100}
+  }
+}
