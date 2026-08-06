@@ -1,0 +1,153 @@
+{
+  "brief": "Upscale dental practice near downtown targeting homeowners in single-family homes worth $450k+ with household income $120k+, families with kids. Mail 9,000 homes within 6 miles.",
+  "parse_source": "fallback",
+  "parse_warnings": [
+    "parsed deterministically (no LLM)"
+  ],
+  "parsed_criteria": {
+    "business_type": "dental_orthodontics",
+    "min_income": 120000,
+    "target_homes": 9000,
+    "housing_type": "homes",
+    "min_own_pct": 60,
+    "max_radius": 6.0,
+    "target_age": "family",
+    "min_score": 20,
+    "center_lat": 27.771,
+    "center_lon": -82.639
+  },
+  "business_type": "dental_orthodontics",
+  "playbook": {
+    "description": "Dentists, orthodontists, oral surgeons, pediatric dental",
+    "recommended_card": "6x11",
+    "typical_campaign": "8,000-15,000 homes",
+    "notes": "Families with kids are the target. HH size > 2.3 and under-19 percentage are key signals. Exclude tourist/retirement areas."
+  },
+  "query": {
+    "center": {
+      "lat": 27.771,
+      "lon": -82.639
+    },
+    "radius_miles": 6.0,
+    "housing_type": "homes",
+    "min_home_value": null,
+    "min_income": 120000,
+    "routes_found": 26
+  },
+  "selection": {
+    "total_routes": 23,
+    "total_residential": 9223,
+    "total_business": 346,
+    "avg_score": 71,
+    "avg_income": 169127,
+    "avg_distance_miles": 3.7,
+    "target_homes": 9000,
+    "target_met": true,
+    "shortfall": 0,
+    "shortfall_explanation": "Target of 9,000 homes met with 23 routes.",
+    "routes_by_zip": {
+      "33703": [
+        "C051",
+        "C075",
+        "C062",
+        "C071",
+        "C069",
+        "C058",
+        "C070",
+        "C054",
+        "C082"
+      ],
+      "33704": [
+        "C019",
+        "C012",
+        "C011",
+        "C018",
+        "C009",
+        "C021"
+      ],
+      "33705": [
+        "C027"
+      ],
+      "33702": [
+        "C017",
+        "C018"
+      ],
+      "33710": [
+        "C006",
+        "C026"
+      ],
+      "33711": [
+        "C070",
+        "C057"
+      ],
+      "33707": [
+        "C003"
+      ]
+    }
+  },
+  "order_sheet_file": "examples/example_order_sheet.txt",
+  "map_file": "examples/example_map.png",
+  "selection_file": "(generated at runtime under output/)",
+  "top_routes": [
+    {
+      "route_id": "33703C051",
+      "zip_code": "33703",
+      "carrier_route": "C051",
+      "residential_count": 309,
+      "business_count": 0,
+      "usps_med_income": 200001,
+      "usps_avg_hh_size": 2.39,
+      "avg_home_value": 526750,
+      "own_pct": 94,
+      "sfh_pct": 108,
+      "facility_name": "GATEWAY MALL",
+      "_distance": 3.194267578958598,
+      "_score": 80,
+      "_reasons": [
+        "$200k income",
+        "94% owners",
+        "19% under 19"
+      ]
+    },
+    {
+      "route_id": "33703C075",
+      "zip_code": "33703",
+      "carrier_route": "C075",
+      "residential_count": 340,
+      "business_count": 1,
+      "usps_med_income": 200001,
+      "usps_avg_hh_size": 2.39,
+      "avg_home_value": 526750,
+      "own_pct": 94,
+      "sfh_pct": 108,
+      "facility_name": "GATEWAY MALL",
+      "_distance": 3.3060113703175307,
+      "_score": 80,
+      "_reasons": [
+        "$200k income",
+        "94% owners",
+        "19% under 19"
+      ]
+    },
+    {
+      "route_id": "33703C062",
+      "zip_code": "33703",
+      "carrier_route": "C062",
+      "residential_count": 418,
+      "business_count": 7,
+      "usps_med_income": 200001,
+      "usps_avg_hh_size": 2.39,
+      "avg_home_value": 526750,
+      "own_pct": 94,
+      "sfh_pct": 108,
+      "facility_name": "GATEWAY MALL",
+      "_distance": 3.5944032983946723,
+      "_score": 78,
+      "_reasons": [
+        "$200k income",
+        "94% owners",
+        "19% under 19"
+      ]
+    }
+  ]
+}
