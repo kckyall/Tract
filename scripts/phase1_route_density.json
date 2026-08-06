@@ -1,0 +1,822 @@
+{
+  "total_phase1_parcels": 29109,
+  "routes_with_phase1": 136,
+  "routes": [
+    {
+      "route_id": "33712C004",
+      "phase1_parcels": 657,
+      "residential_count": 579,
+      "phase1_pct": 113.5
+    },
+    {
+      "route_id": "33712C020",
+      "phase1_parcels": 653,
+      "residential_count": 633,
+      "phase1_pct": 103.2
+    },
+    {
+      "route_id": "33704C015",
+      "phase1_parcels": 624,
+      "residential_count": 516,
+      "phase1_pct": 120.9
+    },
+    {
+      "route_id": "33710C041",
+      "phase1_parcels": 616,
+      "residential_count": 472,
+      "phase1_pct": 130.5
+    },
+    {
+      "route_id": "33710C003",
+      "phase1_parcels": 604,
+      "residential_count": 526,
+      "phase1_pct": 114.8
+    },
+    {
+      "route_id": "33713C016",
+      "phase1_parcels": 602,
+      "residential_count": 533,
+      "phase1_pct": 112.9
+    },
+    {
+      "route_id": "33711C053",
+      "phase1_parcels": 533,
+      "residential_count": 458,
+      "phase1_pct": 116.4
+    },
+    {
+      "route_id": "33713C022",
+      "phase1_parcels": 520,
+      "residential_count": 528,
+      "phase1_pct": 98.5
+    },
+    {
+      "route_id": "33710C037",
+      "phase1_parcels": 508,
+      "residential_count": 575,
+      "phase1_pct": 88.3
+    },
+    {
+      "route_id": "33712C027",
+      "phase1_parcels": 493,
+      "residential_count": 526,
+      "phase1_pct": 93.7
+    },
+    {
+      "route_id": "33713C021",
+      "phase1_parcels": 492,
+      "residential_count": 547,
+      "phase1_pct": 89.9
+    },
+    {
+      "route_id": "33710C035",
+      "phase1_parcels": 487,
+      "residential_count": 339,
+      "phase1_pct": 143.7
+    },
+    {
+      "route_id": "33710C012",
+      "phase1_parcels": 485,
+      "residential_count": 493,
+      "phase1_pct": 98.4
+    },
+    {
+      "route_id": "33711C073",
+      "phase1_parcels": 467,
+      "residential_count": 546,
+      "phase1_pct": 85.5
+    },
+    {
+      "route_id": "33713C025",
+      "phase1_parcels": 446,
+      "residential_count": 387,
+      "phase1_pct": 115.2
+    },
+    {
+      "route_id": "33713C007",
+      "phase1_parcels": 444,
+      "residential_count": 373,
+      "phase1_pct": 119.0
+    },
+    {
+      "route_id": "33707C021",
+      "phase1_parcels": 430,
+      "residential_count": 543,
+      "phase1_pct": 79.2
+    },
+    {
+      "route_id": "33710C028",
+      "phase1_parcels": 426,
+      "residential_count": 492,
+      "phase1_pct": 86.6
+    },
+    {
+      "route_id": "33710C008",
+      "phase1_parcels": 426,
+      "residential_count": 624,
+      "phase1_pct": 68.3
+    },
+    {
+      "route_id": "33713C006",
+      "phase1_parcels": 415,
+      "residential_count": 484,
+      "phase1_pct": 85.7
+    },
+    {
+      "route_id": "33711C062",
+      "phase1_parcels": 409,
+      "residential_count": 548,
+      "phase1_pct": 74.6
+    },
+    {
+      "route_id": "33713C023",
+      "phase1_parcels": 408,
+      "residential_count": 415,
+      "phase1_pct": 98.3
+    },
+    {
+      "route_id": "33710C027",
+      "phase1_parcels": 408,
+      "residential_count": 479,
+      "phase1_pct": 85.2
+    },
+    {
+      "route_id": "33710C006",
+      "phase1_parcels": 400,
+      "residential_count": 418,
+      "phase1_pct": 95.7
+    },
+    {
+      "route_id": "33707C027",
+      "phase1_parcels": 392,
+      "residential_count": 336,
+      "phase1_pct": 116.7
+    },
+    {
+      "route_id": "33704C016",
+      "phase1_parcels": 392,
+      "residential_count": 481,
+      "phase1_pct": 81.5
+    },
+    {
+      "route_id": "33705C017",
+      "phase1_parcels": 380,
+      "residential_count": 410,
+      "phase1_pct": 92.7
+    },
+    {
+      "route_id": "33707C004",
+      "phase1_parcels": 377,
+      "residential_count": 378,
+      "phase1_pct": 99.7
+    },
+    {
+      "route_id": "33710C026",
+      "phase1_parcels": 376,
+      "residential_count": 492,
+      "phase1_pct": 76.4
+    },
+    {
+      "route_id": "33705C029",
+      "phase1_parcels": 372,
+      "residential_count": 385,
+      "phase1_pct": 96.6
+    },
+    {
+      "route_id": "33711C058",
+      "phase1_parcels": 370,
+      "residential_count": 618,
+      "phase1_pct": 59.9
+    },
+    {
+      "route_id": "33710C011",
+      "phase1_parcels": 359,
+      "residential_count": 406,
+      "phase1_pct": 88.4
+    },
+    {
+      "route_id": "33713C012",
+      "phase1_parcels": 357,
+      "residential_count": 644,
+      "phase1_pct": 55.4
+    },
+    {
+      "route_id": "33705C021",
+      "phase1_parcels": 357,
+      "residential_count": 302,
+      "phase1_pct": 118.2
+    },
+    {
+      "route_id": "33713C036",
+      "phase1_parcels": 355,
+      "residential_count": 474,
+      "phase1_pct": 74.9
+    },
+    {
+      "route_id": "33710C004",
+      "phase1_parcels": 353,
+      "residential_count": 498,
+      "phase1_pct": 70.9
+    },
+    {
+      "route_id": "33711C051",
+      "phase1_parcels": 341,
+      "residential_count": 362,
+      "phase1_pct": 94.2
+    },
+    {
+      "route_id": "33710C046",
+      "phase1_parcels": 338,
+      "residential_count": 614,
+      "phase1_pct": 55.0
+    },
+    {
+      "route_id": "33713C011",
+      "phase1_parcels": 327,
+      "residential_count": 489,
+      "phase1_pct": 66.9
+    },
+    {
+      "route_id": "33704C004",
+      "phase1_parcels": 319,
+      "residential_count": 376,
+      "phase1_pct": 84.8
+    },
+    {
+      "route_id": "33704C006",
+      "phase1_parcels": 312,
+      "residential_count": 328,
+      "phase1_pct": 95.1
+    },
+    {
+      "route_id": "33710C015",
+      "phase1_parcels": 309,
+      "residential_count": 648,
+      "phase1_pct": 47.7
+    },
+    {
+      "route_id": "33705C031",
+      "phase1_parcels": 303,
+      "residential_count": 328,
+      "phase1_pct": 92.4
+    },
+    {
+      "route_id": "33711C052",
+      "phase1_parcels": 297,
+      "residential_count": 496,
+      "phase1_pct": 59.9
+    },
+    {
+      "route_id": "33713C041",
+      "phase1_parcels": 297,
+      "residential_count": 578,
+      "phase1_pct": 51.4
+    },
+    {
+      "route_id": "33713C035",
+      "phase1_parcels": 290,
+      "residential_count": 562,
+      "phase1_pct": 51.6
+    },
+    {
+      "route_id": "33704C017",
+      "phase1_parcels": 284,
+      "residential_count": 429,
+      "phase1_pct": 66.2
+    },
+    {
+      "route_id": "33714C062",
+      "phase1_parcels": 282,
+      "residential_count": 405,
+      "phase1_pct": 69.6
+    },
+    {
+      "route_id": "33704C019",
+      "phase1_parcels": 277,
+      "residential_count": 324,
+      "phase1_pct": 85.5
+    },
+    {
+      "route_id": "33705C040",
+      "phase1_parcels": 270,
+      "residential_count": 491,
+      "phase1_pct": 55.0
+    },
+    {
+      "route_id": "33713C010",
+      "phase1_parcels": 266,
+      "residential_count": 293,
+      "phase1_pct": 90.8
+    },
+    {
+      "route_id": "33710C007",
+      "phase1_parcels": 263,
+      "residential_count": 397,
+      "phase1_pct": 66.2
+    },
+    {
+      "route_id": "33713C013",
+      "phase1_parcels": 256,
+      "residential_count": 359,
+      "phase1_pct": 71.3
+    },
+    {
+      "route_id": "33704C030",
+      "phase1_parcels": 252,
+      "residential_count": 469,
+      "phase1_pct": 53.7
+    },
+    {
+      "route_id": "33711C057",
+      "phase1_parcels": 248,
+      "residential_count": 423,
+      "phase1_pct": 58.6
+    },
+    {
+      "route_id": "33713C008",
+      "phase1_parcels": 241,
+      "residential_count": 569,
+      "phase1_pct": 42.4
+    },
+    {
+      "route_id": "33711C068",
+      "phase1_parcels": 239,
+      "residential_count": 693,
+      "phase1_pct": 34.5
+    },
+    {
+      "route_id": "33710C010",
+      "phase1_parcels": 236,
+      "residential_count": 277,
+      "phase1_pct": 85.2
+    },
+    {
+      "route_id": "33712C007",
+      "phase1_parcels": 232,
+      "residential_count": 607,
+      "phase1_pct": 38.2
+    },
+    {
+      "route_id": "33707C045",
+      "phase1_parcels": 230,
+      "residential_count": 683,
+      "phase1_pct": 33.7
+    },
+    {
+      "route_id": "33703C064",
+      "phase1_parcels": 230,
+      "residential_count": 535,
+      "phase1_pct": 43.0
+    },
+    {
+      "route_id": "33712C019",
+      "phase1_parcels": 219,
+      "residential_count": 731,
+      "phase1_pct": 30.0
+    },
+    {
+      "route_id": "33701C041",
+      "phase1_parcels": 207,
+      "residential_count": 594,
+      "phase1_pct": 34.8
+    },
+    {
+      "route_id": "33704C003",
+      "phase1_parcels": 200,
+      "residential_count": 558,
+      "phase1_pct": 35.8
+    },
+    {
+      "route_id": "33705C022",
+      "phase1_parcels": 193,
+      "residential_count": 482,
+      "phase1_pct": 40.0
+    },
+    {
+      "route_id": "33711C064",
+      "phase1_parcels": 192,
+      "residential_count": 736,
+      "phase1_pct": 26.1
+    },
+    {
+      "route_id": "33705C030",
+      "phase1_parcels": 191,
+      "residential_count": 365,
+      "phase1_pct": 52.3
+    },
+    {
+      "route_id": "33713C030",
+      "phase1_parcels": 186,
+      "residential_count": 508,
+      "phase1_pct": 36.6
+    },
+    {
+      "route_id": "33713C004",
+      "phase1_parcels": 180,
+      "residential_count": 847,
+      "phase1_pct": 21.3
+    },
+    {
+      "route_id": "33707C005",
+      "phase1_parcels": 176,
+      "residential_count": 768,
+      "phase1_pct": 22.9
+    },
+    {
+      "route_id": "33707C012",
+      "phase1_parcels": 168,
+      "residential_count": 386,
+      "phase1_pct": 43.5
+    },
+    {
+      "route_id": "33710C043",
+      "phase1_parcels": 166,
+      "residential_count": 355,
+      "phase1_pct": 46.8
+    },
+    {
+      "route_id": "33712C036",
+      "phase1_parcels": 157,
+      "residential_count": 604,
+      "phase1_pct": 26.0
+    },
+    {
+      "route_id": "33704C014",
+      "phase1_parcels": 151,
+      "residential_count": 443,
+      "phase1_pct": 34.1
+    },
+    {
+      "route_id": "33714C051",
+      "phase1_parcels": 150,
+      "residential_count": 418,
+      "phase1_pct": 35.9
+    },
+    {
+      "route_id": "33710C021",
+      "phase1_parcels": 143,
+      "residential_count": 446,
+      "phase1_pct": 32.1
+    },
+    {
+      "route_id": "33713C017",
+      "phase1_parcels": 141,
+      "residential_count": 465,
+      "phase1_pct": 30.3
+    },
+    {
+      "route_id": "33712C001",
+      "phase1_parcels": 136,
+      "residential_count": 515,
+      "phase1_pct": 26.4
+    },
+    {
+      "route_id": "33707C009",
+      "phase1_parcels": 134,
+      "residential_count": 451,
+      "phase1_pct": 29.7
+    },
+    {
+      "route_id": "33704C001",
+      "phase1_parcels": 120,
+      "residential_count": 332,
+      "phase1_pct": 36.1
+    },
+    {
+      "route_id": "33710C050",
+      "phase1_parcels": 112,
+      "residential_count": 441,
+      "phase1_pct": 25.4
+    },
+    {
+      "route_id": "33712C006",
+      "phase1_parcels": 112,
+      "residential_count": 508,
+      "phase1_pct": 22.0
+    },
+    {
+      "route_id": "33711C056",
+      "phase1_parcels": 111,
+      "residential_count": 484,
+      "phase1_pct": 22.9
+    },
+    {
+      "route_id": "33707C003",
+      "phase1_parcels": 109,
+      "residential_count": 232,
+      "phase1_pct": 47.0
+    },
+    {
+      "route_id": "33704C020",
+      "phase1_parcels": 104,
+      "residential_count": 404,
+      "phase1_pct": 25.7
+    },
+    {
+      "route_id": "33707C044",
+      "phase1_parcels": 102,
+      "residential_count": 678,
+      "phase1_pct": 15.0
+    },
+    {
+      "route_id": "33713C014",
+      "phase1_parcels": 99,
+      "residential_count": 363,
+      "phase1_pct": 27.3
+    },
+    {
+      "route_id": "33714C064",
+      "phase1_parcels": 96,
+      "residential_count": 791,
+      "phase1_pct": 12.1
+    },
+    {
+      "route_id": "33710C036",
+      "phase1_parcels": 92,
+      "residential_count": 454,
+      "phase1_pct": 20.3
+    },
+    {
+      "route_id": "33704C022",
+      "phase1_parcels": 87,
+      "residential_count": 435,
+      "phase1_pct": 20.0
+    },
+    {
+      "route_id": "33713C028",
+      "phase1_parcels": 87,
+      "residential_count": 498,
+      "phase1_pct": 17.5
+    },
+    {
+      "route_id": "33714C067",
+      "phase1_parcels": 84,
+      "residential_count": 327,
+      "phase1_pct": 25.7
+    },
+    {
+      "route_id": "33703C053",
+      "phase1_parcels": 81,
+      "residential_count": 387,
+      "phase1_pct": 20.9
+    },
+    {
+      "route_id": "33714C054",
+      "phase1_parcels": 77,
+      "residential_count": 323,
+      "phase1_pct": 23.8
+    },
+    {
+      "route_id": "33705C001",
+      "phase1_parcels": 76,
+      "residential_count": 565,
+      "phase1_pct": 13.5
+    },
+    {
+      "route_id": "33711C054",
+      "phase1_parcels": 71,
+      "residential_count": 490,
+      "phase1_pct": 14.5
+    },
+    {
+      "route_id": "33714C063",
+      "phase1_parcels": 66,
+      "residential_count": 632,
+      "phase1_pct": 10.4
+    },
+    {
+      "route_id": "33713C029",
+      "phase1_parcels": 64,
+      "residential_count": 380,
+      "phase1_pct": 16.8
+    },
+    {
+      "route_id": "33713C026",
+      "phase1_parcels": 64,
+      "residential_count": 379,
+      "phase1_pct": 16.9
+    },
+    {
+      "route_id": "33705C027",
+      "phase1_parcels": 63,
+      "residential_count": 778,
+      "phase1_pct": 8.1
+    },
+    {
+      "route_id": "33701C012",
+      "phase1_parcels": 61,
+      "residential_count": 802,
+      "phase1_pct": 7.6
+    },
+    {
+      "route_id": "33701C001",
+      "phase1_parcels": 51,
+      "residential_count": 730,
+      "phase1_pct": 7.0
+    },
+    {
+      "route_id": "33705C028",
+      "phase1_parcels": 47,
+      "residential_count": 487,
+      "phase1_pct": 9.7
+    },
+    {
+      "route_id": "33710C039",
+      "phase1_parcels": 46,
+      "residential_count": 446,
+      "phase1_pct": 10.3
+    },
+    {
+      "route_id": "33701C003",
+      "phase1_parcels": 41,
+      "residential_count": 531,
+      "phase1_pct": 7.7
+    },
+    {
+      "route_id": "33710C024",
+      "phase1_parcels": 39,
+      "residential_count": 380,
+      "phase1_pct": 10.3
+    },
+    {
+      "route_id": "33709C051",
+      "phase1_parcels": 34,
+      "residential_count": 790,
+      "phase1_pct": 4.3
+    },
+    {
+      "route_id": "33704C007",
+      "phase1_parcels": 33,
+      "residential_count": 411,
+      "phase1_pct": 8.0
+    },
+    {
+      "route_id": "33710C029",
+      "phase1_parcels": 32,
+      "residential_count": 453,
+      "phase1_pct": 7.1
+    },
+    {
+      "route_id": "33705C006",
+      "phase1_parcels": 31,
+      "residential_count": 600,
+      "phase1_pct": 5.2
+    },
+    {
+      "route_id": "33705C020",
+      "phase1_parcels": 30,
+      "residential_count": 326,
+      "phase1_pct": 9.2
+    },
+    {
+      "route_id": "33701C005",
+      "phase1_parcels": 30,
+      "residential_count": 655,
+      "phase1_pct": 4.6
+    },
+    {
+      "route_id": "33711C070",
+      "phase1_parcels": 30,
+      "residential_count": 1142,
+      "phase1_pct": 2.6
+    },
+    {
+      "route_id": "33710C032",
+      "phase1_parcels": 27,
+      "residential_count": 454,
+      "phase1_pct": 5.9
+    },
+    {
+      "route_id": "33710C030",
+      "phase1_parcels": 25,
+      "residential_count": 918,
+      "phase1_pct": 2.7
+    },
+    {
+      "route_id": "33705C015",
+      "phase1_parcels": 24,
+      "residential_count": 413,
+      "phase1_pct": 5.8
+    },
+    {
+      "route_id": "33703C052",
+      "phase1_parcels": 23,
+      "residential_count": 486,
+      "phase1_pct": 4.7
+    },
+    {
+      "route_id": "33704C012",
+      "phase1_parcels": 22,
+      "residential_count": 264,
+      "phase1_pct": 8.3
+    },
+    {
+      "route_id": "33706C021",
+      "phase1_parcels": 21,
+      "residential_count": 763,
+      "phase1_pct": 2.8
+    },
+    {
+      "route_id": "33711C069",
+      "phase1_parcels": 21,
+      "residential_count": 511,
+      "phase1_pct": 4.1
+    },
+    {
+      "route_id": "33712C008",
+      "phase1_parcels": 20,
+      "residential_count": 505,
+      "phase1_pct": 4.0
+    },
+    {
+      "route_id": "33705C035",
+      "phase1_parcels": 17,
+      "residential_count": 548,
+      "phase1_pct": 3.1
+    },
+    {
+      "route_id": "33711C059",
+      "phase1_parcels": 16,
+      "residential_count": 383,
+      "phase1_pct": 4.2
+    },
+    {
+      "route_id": "33705C034",
+      "phase1_parcels": 14,
+      "residential_count": 417,
+      "phase1_pct": 3.4
+    },
+    {
+      "route_id": "33709C055",
+      "phase1_parcels": 13,
+      "residential_count": 657,
+      "phase1_pct": 2.0
+    },
+    {
+      "route_id": "33703C076",
+      "phase1_parcels": 13,
+      "residential_count": 323,
+      "phase1_pct": 4.0
+    },
+    {
+      "route_id": "33712C012",
+      "phase1_parcels": 9,
+      "residential_count": 324,
+      "phase1_pct": 2.8
+    },
+    {
+      "route_id": "33711C063",
+      "phase1_parcels": 8,
+      "residential_count": 456,
+      "phase1_pct": 1.8
+    },
+    {
+      "route_id": "33704C028",
+      "phase1_parcels": 6,
+      "residential_count": 529,
+      "phase1_pct": 1.1
+    },
+    {
+      "route_id": "33710C018",
+      "phase1_parcels": 6,
+      "residential_count": 429,
+      "phase1_pct": 1.4
+    },
+    {
+      "route_id": "33705C016",
+      "phase1_parcels": 6,
+      "residential_count": 376,
+      "phase1_pct": 1.6
+    },
+    {
+      "route_id": "33712C024",
+      "phase1_parcels": 5,
+      "residential_count": 389,
+      "phase1_pct": 1.3
+    },
+    {
+      "route_id": "33705C032",
+      "phase1_parcels": 3,
+      "residential_count": 662,
+      "phase1_pct": 0.5
+    },
+    {
+      "route_id": "33710C038",
+      "phase1_parcels": 2,
+      "residential_count": 293,
+      "phase1_pct": 0.7
+    },
+    {
+      "route_id": "33701C009",
+      "phase1_parcels": 2,
+      "residential_count": 779,
+      "phase1_pct": 0.3
+    },
+    {
+      "route_id": "33701C013",
+      "phase1_parcels": 2,
+      "residential_count": 785,
+      "phase1_pct": 0.3
+    }
+  ]
+}
