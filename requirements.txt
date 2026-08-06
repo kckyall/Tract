@@ -1,0 +1,4 @@
+matplotlib>=3.5
+numpy>=1.21
+Pillow>=9.0
+jsonschema>=4.0
