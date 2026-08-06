@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "business_type": "dental_orthodontics",
+    "min_income": 120000,
+    "target_homes": 9000,
+    "housing_type": "homes",
+    "min_own_pct": 60,
+    "max_radius": 6.0,
+    "target_age": "family",
+    "min_score": 20
+  },
+  "source": "fallback",
+  "warnings": [
+    "parsed deterministically (no LLM)"
+  ]
+}
