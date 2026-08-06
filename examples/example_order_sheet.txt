@@ -1,0 +1,64 @@
+==================================================
+USPS EDDM ORDER SHEET
+==================================================
+Total routes: 23
+Total homes: 9,223
+Drop-off: EDDM Retail at post office
+
+--- ZIP 33702 (2 routes, 739 homes) ---
+  Facility: NORTHSIDE
+  Routes: C017, C018
+    C017: 289 res / 3 bus
+    C018: 450 res / 8 bus
+
+--- ZIP 33703 (9 routes, 3,102 homes) ---
+  Facility: GATEWAY MALL
+  Routes: C051, C054, C058, C062, C069, C070, C071, C075, C082
+    C051: 309 res / 0 bus
+    C054: 358 res / 1 bus
+    C058: 360 res / 0 bus
+    C062: 418 res / 7 bus
+    C069: 334 res / 0 bus
+    C070: 340 res / 0 bus
+    C071: 328 res / 0 bus
+    C075: 340 res / 1 bus
+    C082: 315 res / 0 bus
+
+--- ZIP 33704 (6 routes, 1,897 homes) ---
+  Facility: EUCLID
+  Routes: C009, C011, C012, C018, C019, C021
+    C009: 354 res / 5 bus
+    C011: 220 res / 1 bus
+    C012: 264 res / 2 bus
+    C018: 284 res / 0 bus
+    C019: 324 res / 42 bus
+    C021: 451 res / 1 bus
+
+--- ZIP 33705 (1 routes, 778 homes) ---
+  Facility: MIDTOWN
+  Routes: C027
+    C027: 778 res / 3 bus
+
+--- ZIP 33707 (1 routes, 232 homes) ---
+  Facility: GULFWINDS
+  Routes: C003
+    C003: 232 res / 151 bus
+
+--- ZIP 33710 (2 routes, 910 homes) ---
+  Facility: CROSSROADS
+  Routes: C006, C026
+    C006: 418 res / 3 bus
+    C026: 492 res / 65 bus
+
+--- ZIP 33711 (2 routes, 1,565 homes) ---
+  Facility: GULFWINDS
+  Routes: C057, C070
+    C057: 423 res / 8 bus
+    C070: 1,142 res / 45 bus
+
+INSTRUCTIONS:
+1. Go to https://eddm.usps.com/eddm/select-routes.htm
+2. Search each ZIP code listed above
+3. Check the routes listed for that ZIP
+4. Proceed to checkout
+==================================================
